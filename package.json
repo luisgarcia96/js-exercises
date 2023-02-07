@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luisgarcia96/js-exercises/issues"
   },
-  "homepage": "https://github.com/luisgarcia96/js-exercises#readme"
+  "homepage": "https://github.com/luisgarcia96/js-exercises#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
