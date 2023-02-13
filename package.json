@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/luisgarcia96/js-exercises#readme",
   "dependencies": {
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "type": "module"
 }
